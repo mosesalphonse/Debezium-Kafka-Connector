@@ -1,4 +1,4 @@
-# Debezium-Kafka-Connector
+# Debezium-Kafka-Connector on Docker
 
 Start ZooKeeper in a container:(new terminal)
 ===================================
